@@ -1,1 +1,0 @@
-//o objetivo desse arquivo é ser o loop que vai tomar as decisoes principais do worldbox, usando um loop com tempo com um delay de 1 segundo, usando as bibliotecas #include <chrono> #include <thread>.
