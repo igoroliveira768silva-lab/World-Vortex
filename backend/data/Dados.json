@@ -1,9 +1,6 @@
 {
-  "mundo":{
-    "animais":[],
-    "arvores":[],
-    "humanos":[],
-    "chao":[],
-  }
-  
+    "mundo": {
+        "chao": [
+        ]
+    }
 }
